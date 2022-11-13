@@ -1,0 +1,112 @@
+.codo-header{
+    background-color: #353a40;
+}
+
+.text-header{
+    color: #919599;    
+}
+
+.text-header:hover{
+    color: #7a8085;
+}
+
+.img-header{
+    height: 60px;
+}
+
+.carousel-codoacodo{
+    position: absolute;
+    right: 15%;
+    bottom: 7.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: right;
+}
+
+.btn-outline-white{
+    color: white;
+    border-color: white;
+}
+
+.btn-outline-white:hover{
+    border-color: #e9e9e9 !important;
+}
+
+.btn-success.codo{
+    background-color: #1faf25;
+    border-color: #1faf25;
+}
+
+.btn-success.codo:hover{
+    background-color: #198f1e;
+    border-color: #198f1e;
+}
+
+.card-img-overlay{
+    background: rgb(0 0 0 / 50%);
+    text-align: right;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    padding-right: 90px;
+}
+
+.badge.codo-blue{
+    background-color: #2196f3;
+}
+
+.card.codo{
+    border: 0px;
+    border-radius: 0px;
+}
+
+.card-align-codo{
+    width: 520px;
+}
+
+.text-small{
+    font-size: 14px;
+}
+
+.dotted-underline{
+    border-bottom: 1px dotted black;
+}
+
+.btn-success.submit{
+    background-color: #96c93e;
+    border-color: #96c93e;
+}
+
+.btn-success.submit:hover{
+    background-color: #84b332;
+    border-color: #84b332;
+}
+
+.codo-textarea{
+    font-size: 25px;
+}
+
+.codo-footer{
+    background-color: #1f5271;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.codo-footer div{
+    padding: 30px;
+    font-size: 15px;
+    width: 180px;
+    text-align: center;
+}
+
+.codo-footer a{
+    color: white;
+    padding: 30px;
+    font-size: 15px;
+    width: 180px;
+    text-align: center;
+    text-decoration: none;
+}
